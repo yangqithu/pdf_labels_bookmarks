@@ -21,7 +21,7 @@ pip install pypdf
 
 ## 🚀 使用指南
 
-NOTION：把这个脚本的绝对路径和所需要修改的PDF的绝对路径直接喂给AI agent吧！描述要求，然后什么都不用管，你不需要学习繁琐的命令行操作指令，它会自动帮你做好一切的。
+【提示】把这个脚本的绝对路径和PDF的绝对路径直接喂给AI agent吧！描述要求，然后什么都不用管，你不需要学习繁琐的命令行操作指令，它会自动帮你做好一切的。
 
 以WorkBuddy为例：
 <img width="1076" height="195" alt="image" src="https://github.com/user-attachments/assets/407bc5d7-073c-4b14-a3bd-e6de7567f779" />
