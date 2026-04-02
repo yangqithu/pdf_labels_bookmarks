@@ -1,4 +1,4 @@
-# PDF Label & Bookmark Overwriter
+<img width="562" height="787" alt="image" src="https://github.com/user-attachments/assets/613fe134-6dc3-4e85-927c-61db30f33bf1" /># PDF Label & Bookmark Overwriter
 
 一个轻量级的 Python 命令行工具，专为解决学术文献和电子书的 **PDF 页码错位**与**书签缺失**问题而设计。
 
@@ -27,7 +27,7 @@ pip install pypdf
 
 <img width="1076" height="195" alt="image" src="https://github.com/user-attachments/assets/407bc5d7-073c-4b14-a3bd-e6de7567f779" />
 
-
+**处理过程：**
 <img width="1059" height="977" alt="image" src="https://github.com/user-attachments/assets/ce614d08-b767-4a82-9a2a-b22250ea0d9a" />
 
 
