@@ -1,5 +1,3 @@
-<img width="562" height="787" alt="image" src="https://github.com/user-attachments/assets/613fe134-6dc3-4e85-927c-61db30f33bf1" /># PDF Label & Bookmark Overwriter
-
 一个轻量级的 Python 命令行工具，专为解决学术文献和电子书的 **PDF 页码错位**与**书签缺失**问题而设计。
 
 它可以直接覆写 PDF 底层的页码标签（将前言设为罗马数字，正文设为阿拉伯数字），并支持通过极简的命令行语法快速挂载多个书签。
